@@ -1,0 +1,30 @@
+main, aside {
+    width: 500px;
+    margin: 0 auto;
+}
+
+
+ul {
+    margin: 10px;
+}
+
+ul ul {
+    margin: 0;
+}
+
+li li {
+    font-weight: bolder;
+}
+
+p.important-text {
+    color: red;
+    font-size: 40px;
+}
+
+input[type=text] {
+    border: 2px solid red;
+}
+
+input[type=number] {
+    border: 2px solid green;
+}

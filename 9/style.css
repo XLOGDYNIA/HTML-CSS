@@ -8,6 +8,7 @@ div {
 .first {
     left: 50px;
     background-color: rgba(0, 146, 70, 0.7);
+    background-image: radial-gradient();
 }
 
 .second {
@@ -23,4 +24,7 @@ div {
 
 body {
     background: url(http://lorempizza.com/700/200) no-repeat;
+    background-color: lightblue;
+    background-repeat: repeat;
 }
+
